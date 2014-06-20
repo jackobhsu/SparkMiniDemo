@@ -1,4 +1,0 @@
-SparkMiniDemo
-=============
-
-SparkDemo
